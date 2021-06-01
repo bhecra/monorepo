@@ -28,6 +28,13 @@
     },
     "utils": {
       "tags": []
+    },
+    "my-react-app": {
+      "tags": []
+    },
+    "my-react-app-e2e": {
+      "tags": [],
+      "implicitDependencies": ["my-react-app"]
     }
   }
 }
